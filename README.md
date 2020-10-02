@@ -1,5 +1,5 @@
 ##
-# **Automate form submission using test data in yaml file**
+# **Automate form submission using test data in yaml/Json file**
 
 The Test Automation Framework is created for automating all the Sanity, Smoke and Regression test cases.
 
